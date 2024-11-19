@@ -1,0 +1,10 @@
+name = "meltysim"
+uuid = "a8db49ee-278e-4726-b9ce-a111bef6da2c"
+authors = ["Endre Dåvøy Vestå <lolskap@live.no>"]
+version = "0.0.0"
+
+[deps]
+Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
+
+[compat]
+Plots = "1.40.8"
